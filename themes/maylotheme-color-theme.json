@@ -1,5 +1,5 @@
 {
-	"name": "Rosé Pine Moon (no italics)",
+	"name": "Maylo Theme",
 	"type": "dark",
 	"colors": {
 		"activityBar.activeBorder": "#e0def4",
@@ -467,7 +467,7 @@
 			"scope": ["comment"],
 			"settings": {
 				"foreground": "#6e6a86",
-				"fontStyle": ""
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -503,7 +503,7 @@
 			"scope": ["entity.other.attribute-name", "entity.other.inherited-class"],
 			"settings": {
 				"foreground": "#c4a7e7",
-				"fontStyle": ""
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -551,7 +551,7 @@
 		{
 			"scope": "markup.italic.markdown",
 			"settings": {
-				"fontStyle": ""
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -576,7 +576,7 @@
 			"scope": "meta.directive.vue",
 			"settings": {
 				"foreground": "#c4a7e7",
-				"fontStyle": ""
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -649,14 +649,14 @@
 			"scope": ["support.function"],
 			"settings": {
 				"foreground": "#eb6f92",
-				"fontStyle": ""
+				"fontStyle": "italic"
 			}
 		},
 		{
 			"scope": ["variable"],
 			"settings": {
 				"foreground": "#ea9a97",
-				"fontStyle": ""
+				"fontStyle": "italic"
 			}
 		},
 		{
