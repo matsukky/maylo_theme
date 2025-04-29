@@ -1,5 +1,5 @@
 {
-	"name": "maylotheme",
+	"name": "oklatheme",
 	"version": "1.0.0",
 	"publisher": "matsukky",
 	"description": "A chill and work wanted theme, base of Rosé Pine, but in a different way.",
@@ -8,7 +8,7 @@
 		"url": "https://github.com/matsukky/maylo_theme"
 	},
 	"author": {
-		"name": "Maylody",
+		"name": "Oklarowyn",
 		"email": "code@matsukky.com"
 	},
 	"type": "module",
@@ -20,7 +20,7 @@
 		"version": "npm run build && npm run format"
 	},
 	"icon": "assets/icon.png",
-	"displayName": "Maylo Theme",
+	"displayName": "Okla Theme",
 	"categories": [
 		"Themes"
 	],
@@ -38,14 +38,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Maylo Theme",
+				"label": "Okla Theme",
 				"uiTheme": "vs-dark",
-				"path": "./themes/maylotheme-color-theme.json"
-			},
-			{
-				"label": "Maylo Theme (no italics)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/maylotheme-noitalics-color-theme.json"
+				"path": "./themes/oklatheme-color.json"
 			}
 		]
 	},

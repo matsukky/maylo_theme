@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Maylo Theme for VSCode
+    <h2 align="center">Oklarowyn Theme for VSCode
     <h3 align="center">base on Rosé Pine</h3></h2>
     
 </p>
@@ -9,7 +9,7 @@
 ## Usage
 
 1. Open VSCode
-2. Search for `Maylo Theme` in extensions
+2. Search for `Okla Theme` in extensions
 3. Install the theme and choose your variant in `Preferences: Color theme`
 
 
